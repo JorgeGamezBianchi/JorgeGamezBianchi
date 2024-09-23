@@ -1,4 +1,4 @@
-<div><img src="[https://media.licdn.com/dms/image/D4E16AQFvEPURygdjWg/profile-displaybackgroundimage-shrink_350_1400/0/1718901317228?e=1726099200&v=beta&t=BmnTYLh6tGxa6YW1GUGOiE4s9UOxLQiOw7erOjYQGDk](https://media.licdn.com/dms/image/v2/D4E16AQFvEPURygdjWg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718901317228?e=1732752000&v=beta&t=nqGca7UsmHOE7PxdZsXWevmJKLbpeXnz-yinrDh1UoM)" width="auto"></div>
+<div><img src="https://media.licdn.com/dms/image/v2/D4E16AQFvEPURygdjWg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718901317228?e=1732752000&v=beta&t=nqGca7UsmHOE7PxdZsXWevmJKLbpeXnz-yinrDh1UoM" width="auto"></div>
 <h1 align="center">Hola , Bienvenido a mi perfil, me llamo Jorge <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
