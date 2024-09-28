@@ -38,7 +38,7 @@ Me considero proactivo, organizado, autodidacta, comprometido y encantado por el
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contactame en:
 <p align="center">
-  	<a href="https://mx.linkedin.com/in/jorge-gamez-bianchi" target="blank">
+  	<a href="https://www.linkedin.com/in/gamez-bianchi/)" target="blank">
 	  	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   	</a>
 	<a href="https://www.buymeacoffee.com/beto_gambia" target="_blank">
