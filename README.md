@@ -1,4 +1,4 @@
-<div><img src="[https://media.licdn.com/dms/image/v2/D4D16AQG-iQnfCcOWNA/profile-displaybackgroundimage-shrink_350_1400/B4DZUZ2aHRGkAY-/0/1739895448699?e=1745452800&v=beta&t=h6bfOFlbtQISc6_-YsfYHUDJnfgvvq2XYpGm8fYymvI](https://postimg.cc/fJHwW0Lb)" width="auto"></div>
+<div><img src="https://postimg.cc/fJHwW0Lb" width="auto"></div>
 <h1 align="center">Hola , Bienvenido a mi perfil, me llamo Jorge <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
