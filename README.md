@@ -1,4 +1,4 @@
-<div><img src="https://postimg.cc/fJHwW0Lb" width="auto"></div>
+<div><img src="[NET-Developer.png](https://postimg.cc/fJHwW0Lb)" width="auto"></div>
 <h1 align="center">Hola , Bienvenido a mi perfil, me llamo Jorge <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
