@@ -10,12 +10,12 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
-Soy desarrollador .Net desde el 2022.👨‍💻 He trabajado con proyectos de gestión empresarial como ERP y CRM, los cuales eh sido encargado de modificar y agregar nuevas funciones de acuerdo a requerimientos de usuarios finales. 
+Soy desarrollador desde el 2022.👨‍💻 He trabajado con proyectos de gestión empresarial como ERP y CRM, los cuales eh sido encargado de modificar y agregar nuevas funciones de acuerdo a requerimientos de usuarios finales. 
 <br><br>
 Me considero proactivo, organizado, autodidacta, comprometido y encantado por el aprendizaje continuo relacionado con la tecnología y algunos otros temas.
 <br>Estoy interesado en el desarrollo de aplicaciones móviles, web y la Inteligencia Artificial. 💻📳✨
 
-- :computer: Soy desarrollador .NET y Android Jr.
+- :computer: Soy desarrollador Full-Stack y Android Jr.
 - :school: Estoy estudiando la `Maestría en Habilidades Directivas` y terminé la carrera de `Sistemas Computacionales`.
 - :technologist: Me encanta poder usar la tecnología para resolver cualquier `problema` y tener la oportunidad de `Automatizar Procesos`.
 - :student: Actualmente estoy aprendiendo sobre `Desarrollo de Apps para Android`.
