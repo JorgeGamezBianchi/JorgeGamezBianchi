@@ -15,12 +15,12 @@ Soy desarrollador desde el 2022.👨‍💻 He trabajado con proyectos de gesti�
 Me considero proactivo, organizado, autodidacta, comprometido y encantado por el aprendizaje continuo relacionado con la tecnología y algunos otros temas.
 <br>Estoy interesado en el desarrollo de aplicaciones móviles, web y la Inteligencia Artificial. 💻📳✨
 
-- :computer: Soy desarrollador Full-Stack y Android Jr.
+- :computer: Soy desarrollador Full-Stack .NET Developer (SSr).
 - :school: Estoy estudiando la `Maestría en Habilidades Directivas` y terminé la carrera de `Sistemas Computacionales`.
 - :technologist: Me encanta poder usar la tecnología para resolver cualquier `problema` y tener la oportunidad de `Automatizar Procesos`.
 - :student: Actualmente estoy aprendiendo sobre `Desarrollo de Apps para Android`.
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
-- :video_game: Juguemos juntos: `Call Of Duty: Mobile`, `IdentityV`, `Genshin Impact`, `Pokemon Unite`.
+- :video_game: Juguemos juntos: `Call Of Duty: Mobile`, `Clash of Clans`, `IdentityV`, `Genshin Impact`, `Pokemon Unite`.
 - :thinking: Estoy abierto a `oportunidades laborales`.
 
 <br>
