@@ -4,7 +4,7 @@
 # Jorge Gamez Bianchi
 ### Full-Stack .NET Developer · Software Engineer · AI & Automation Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JorgeGamez-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jorgeveloper)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JorgeGamez-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jorgegámez)
 [![Portfolio](https://img.shields.io/badge/Portfolio-jorge--gamez.vercel.app-000?style=for-the-badge&logo=vercel)](https://jorge-gamez.vercel.app)
 <!-- [![StackMind](https://img.shields.io/badge/StackMind-Content_Channel-FF6B35?style=for-the-badge&logo=youtube)](https://www.youtube.com/@StackMind) -->
 
