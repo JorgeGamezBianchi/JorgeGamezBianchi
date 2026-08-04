@@ -1,4 +1,4 @@
-<div><img src="https://i.postimg.cc/WpST64Hm/Linked-In-Portada.png" width="auto"></div>
+<div><img src="https://i.postimg.cc/90dynnrL/Linked-In-Portada-5.png" width="auto"></div>
 <div align="center">
 
 # Jorge Gamez Bianchi
